@@ -26,4 +26,13 @@ Excel
 * The Pass rate of Ai users to Non Ai users shows that the students that uses Ai ends with final score than the non Ai users making the pass rate in favour of the Ai users.
   
   <img width="215" height="144" alt="image" src="https://github.com/user-attachments/assets/d6a16a3b-01c0-4d4e-ba4c-a721909ee525" />
-* 
+* The Average improvement rate of Ai users is very much than the Non Ai users.
+* A total of **64.10%** Students Uses Ai with a percentage of **64.18%**
+
+The analysis also shows that students that uses Ai ended up with higher average final scores and pass rates compared to non-Ai users, indicating a positive association between Ai usage and academic performance. Even students classified as non-Ai users use Ai sparingly, suggesting Ai tools are becoming pervasive and are accessed occasionally rather than consistently.
+Students who use AI for homework, coding, and exam preparation achieve the highest average scores, while lighter uses (e.g., note-taking or doubt solving) still provide moderate benefits.
+<img width="276" height="245" alt="image" src="https://github.com/user-attachments/assets/c76fd49a-ddb4-4d3d-b5e3-1c4c592ad992" />
+Despite Ai advantages, study hours, tutoring time, and responsible usage remain key contributors to success. AI enhances learning efficiency not substitute core academic effort. The difference between Ai and non-Ai users is noticeable but not drastic, reinforcing that AI is a support tool, not a guarantee of success.
+
+Overall Insight:
+AI adoption correlates with improved student performance especially when put into good use. However even limited exposure among non-Ai users shows Ai’s growing influence highlighting the need for guided and structured Ai integration in education rather than outright dependence or avoidance.
